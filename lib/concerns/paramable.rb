@@ -4,4 +4,3 @@ module Paramable
   end
 end
   
-end
